@@ -1,20 +1,8 @@
 <p align="center"> <img src="http://up.upinja.com/ljcgm.jpg" width="240">
 <h1><p align="center" فتوبات
 <h2><p align="center">با صرفه  💠 آسان 💠 سریع
-<div align="center">
-    <a href="https://telegram.me/Naji_MessengerRobot">
-        <img src="http://upir.ir/951/guest/Untitled-5.png" hspace="10" width="150">
-    </a>
-    <a href="https://telegram.me/i_advansitor">
-        <img src="http://upir.ir/951/guest/Untitled-7.png" hspace="10" width="150">
-    </a>
-    <a href="https://telegram.me/i_naji">
-        <img src="http://upir.ir/951/guest/Untitled-6.png" width="150">
-    </a>
-</div>
-
 <h3><p dir="rtl">فتوبات رباتی هوشمند, بسیار ساده جهت امور تبلیغاتی در تلگرام است.<br>
-نوشته شده توسط <a href="https://telegram.me/i_naji">اپکت</a> برپایه اخرین نسخه <a href="https://valtman.name/telegram-cli">تلگرام</a>.
+نوشته شده توسط <a href="https://telegram.me/apektme">اپکت</a> برپایه اخرین نسخه <a href="https://valtman.name/telegram-cli">تلگرام</a>.
 <br>
 <h3 align="right"> <strong> نصب و راه‌اندازی</strong> 🚀
 </h3>
@@ -22,7 +10,7 @@
 <h4 dir="rtl">ابتدا سورس <em>ربات فتوبات </em> را کپی کرده و پیش‌زمینه‌ها را نصب کنید.</h4>
 <h6>(موارد زیر را در ترمینال وارد کنید)</h6>
 <pre>
-<span>git clone https://github.com/i-naji/tabchi.git -b persian</span>
+<span>git clone https://github.com/ali3360/fotobot.git -b persian</span>
 <span>cd tabchi</span>
 <span>chmod +x bot</span>
 <span>./bot install</span>
